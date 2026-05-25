@@ -1,4 +1,4 @@
-# Phase 1 — Linearized Bicycle Model for Lateral Stability Analysis
+# Linearized Bicycle Model for Lateral Stability Analysis
 
 Implementation of the benchmark linearized bicycle model from Meijaard, Papadopoulos, Ruina and Schwab (2007).
 
